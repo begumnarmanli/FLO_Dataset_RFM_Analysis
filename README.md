@@ -1,4 +1,7 @@
-# FLO_Dataset_RFM_Analysis
+# FLO_Dataset_RFM_Analysis            ⌛   🛒   💸
+
+![rfm_analysis](https://github.com/begumnarmanli/FLO_Dataset_RFM_Analysis/assets/159467416/b6cc9768-cd24-49b6-af47-a043f7fc46a2)
+
 
 
 Dataset consists of information obtained from the past shopping behaviors of customers who make their latest shopping from FLO as Omnichannel (both online and offline shopping) in 2020 - 2021.
@@ -37,4 +40,6 @@ customer_value_total_ever_online: Total fee paid by the customer in online shopp
 
 
 interested_in_categories_12: List of categories where the customer shopping in the last 12 months
+
+Data Source: https://www.kaggle.com/datasets/emineyetm/flodata
 
